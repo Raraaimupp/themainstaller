@@ -14,7 +14,7 @@ CYAN='\033[0;36m' # Reset warna teks ke default
 # Menampilkan informasi
 clear
 echo -e "\033[0m"
-echo -e "${RED}𝗢𝗪𝗡𝗘𝗥${RESET}${BLUE}𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥${RESET}"
+echo -e "${RED}TOKEN BASH${RESET}${BLUE}INSTALLER THEMA PREMIUM${RESET}"
 echo -e "\033[32mTELEGRAM  : @raraa_imuppp\033[0m"
 echo -e "\033[31mCHANNEL : @kepoluyee\033[0m"
 echo ""
